@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer · iOS & Android · Clean Architecture · Open Source</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a893a7e3-6f5d-4d0e-8e0a-26660091fa69" alt="Taha Elkholy" width="120"/>
+  <img width="140" alt="Taha Elkholy" src="https://github.com/user-attachments/assets/d27f11ff-3ce1-4e3f-936a-92ee536fcf60" />
 </p>
 
 <p align="center">
