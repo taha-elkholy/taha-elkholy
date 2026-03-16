@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://taha-elkholy.github.io/portfolio-web"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=globe&logoColor=white"/></a>
   <a href="https://linkedin.com/in/taha-elkholy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:tahaelkholy.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
