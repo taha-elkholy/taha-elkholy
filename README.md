@@ -13,7 +13,7 @@
 
 ---
 
-Flutter Developer with 3+ years building production-grade iOS & Android applications — from architecture decisions to App Store submission. Shipped 8+ apps with 12,000+ total downloads across Google Play and App Store.
+Mobile Application Engineer with 3+ years building production-grade iOS & Android applications — from architecture decisions to App Store submission. Shipped 6+ production apps with 12,000+ total downloads across Google Play and App Store.
 
 ---
 
@@ -23,7 +23,7 @@ Flutter Developer with 3+ years building production-grade iOS & Android applicat
 <br>Dart · Flutter
 
 **Architecture & Patterns**
-<br>Clean Architecture · MVVM · MVC · SOLID Principles · Dependency Injection · Repository Pattern
+<br>Clean Architecture · MVVM · SOLID Principles · Dependency Injection · Repository Pattern
 
 **State Management**
 <br>BLoC · Riverpod · Provider
@@ -40,6 +40,9 @@ Flutter Developer with 3+ years building production-grade iOS & Android applicat
 **Storage**
 <br>SQLite · Hive · Shared Preferences · Secure Storage
 
+**Monitoring & Crash Reporting**
+<br>Sentry · Firebase Crashlytics
+
 **Testing & Quality**
 <br>Unit Testing · Code Review
 
@@ -50,7 +53,7 @@ Flutter Developer with 3+ years building production-grade iOS & Android applicat
 
 ## 📱 Production Apps
 
-### EV Cozmo — Electric Vehicle Companion — 2K+ downloads · 4.7★
+### EV Cozmo — Electric Vehicle Companion — 2K+ ↓ · ★ 4.7
 - All-in-one EV platform live across Egypt, KSA, UAE, Jordan, Qatar, Kuwait & Morocco
 - Real-time charging station discovery and interactive route planning
 - AI-powered battery range calculation
@@ -63,13 +66,12 @@ Flutter Developer with 3+ years building production-grade iOS & Android applicat
 
 ---
 
-### HNE Futures — EV Charging Manager — 2.5K+ downloads · 5.0★
+### HNE Futures — EV Charging Manager — 2.5K+ ↓ · ★ 5.0
 - EV charging session management with real-time hardware-software integration
 - Cross-functional collaboration with embedded systems and backend teams
-- 85% unit test coverage, reducing production bugs by 40%
+- Improved application stability through unit testing covering use cases, repositories, and core services
 
 `Flutter` `BLoC` `Clean Architecture` `Unit Testing` `REST APIs`
-
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.hnefutures.com)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/hne-futures/id6443637664)
@@ -84,20 +86,20 @@ Flutter Developer with 3+ years building production-grade iOS & Android applicat
 - User profiles with ratings and reviews
 - Built with Flutter Flavors supporting 2 separate brands from a single codebase
 
-`Flutter` `Flavors` `OS Maps` `Tracking` `GPS` `CI/CD` `Clean Architecture` `FCM` 
+`Flutter` `Flavors` `OS Maps` `GPS` `CI/CD` `Clean Architecture` `FCM`
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.atareeqak)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/atareeqak-%D8%B9%D8%B7%D8%B1%D9%8A%D9%82%D9%83/id6754688977)
 
 ---
 
-### Multaqa — Muslim Lifestyle App — 700+ downloads
+### Multaqa — Muslim Lifestyle App — 700+ ↓
 - Community-driven Muslim lifestyle platform for Muslims in the UK
 - Prayer times, halal directory, and local Islamic services
 - Social networking and community features
 - Background notifications for prayer reminders
 
-`Flutter` `Background Fetch` `Locale Notifications` `CI/CD` `Clean Architecture` `FCM` 
+`Flutter` `Background Fetch` `Local Notifications` `CI/CD` `Clean Architecture` `FCM`
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=io.multaqa)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/multaqa/id6479318135)
@@ -117,12 +119,12 @@ Flutter Developer with 3+ years building production-grade iOS & Android applicat
 
 ---
 
-### Al-Arbaeen Al-Nawawi الأربعين النووية — Hadith Study App — 5K+ downloads · 4.9★
+### Al-Arbaeen Al-Nawawi الأربعين النووية — Hadith Study App — 5K+ ↓ · ★ 4.9
 - Offline-first app for browsing and studying the 40 Hadith of Al-Nawawi
 - Originally built as a native Android app, later migrated to Flutter
 - Clean reading experience with no internet required
 
-`Flutter` `Dart` `MVC` `Firebase Crashlytics` `Android Native` `CI/CD` 
+`Flutter` `Dart` `MVC` `Firebase Crashlytics` `Android Native` `CI/CD`
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.abdelaziz.taha.arba3nnawawia)
 
@@ -142,4 +144,4 @@ Flutter Developer with 3+ years building production-grade iOS & Android applicat
 
 - **Email:** tahaelkholy.dev@gmail.com
 - **LinkedIn:** [linkedin.com/in/taha-elkholy](https://linkedin.com/in/taha-elkholy)
-- **Location:** Alexandria, Egypt · Open to Remote & Relocation
+- **Location:** Alexandria, Egypt · Open to Remote
