@@ -1,5 +1,5 @@
 <h1 align="center">Taha Elkholy</h1>
-<h3 align="center">Flutter Developer · iOS & Android · Clean Architecture · Open Source</h3>
+<h3 align="center">Software Engineer · Flutter Developer · Clean Architecture · Open Source</h3>
 
 <p align="center">
   <img width="140" alt="Taha Elkholy" src="profile.png" />
@@ -13,7 +13,7 @@
 
 ---
 
-Mobile Application Engineer with 3+ years building production-grade iOS & Android applications — from architecture decisions to App Store submission. Shipped 6+ production apps with 12,000+ total downloads across Google Play and App Store.
+Software Engineer specializing in Flutter mobile development with 3+ years of experience across iOS and Android. Delivered 6 live apps with 12K+ downloads using Clean Architecture and CI/CD automation.
 
 ---
 
