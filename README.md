@@ -13,7 +13,7 @@
 
 ---
 
-Software Engineer specializing in Flutter mobile development with 3+ years of experience across iOS and Android. Delivered 6 live apps with 12K+ downloads using Clean Architecture and CI/CD automation.
+Software Engineer specializing in Flutter mobile development with 4+ years of experience across iOS and Android, with an Android-native background. Delivered 6 live apps with 12K+ downloads using Clean Architecture and automated CI/CD.
 
 ---
 
@@ -40,6 +40,9 @@ Software Engineer specializing in Flutter mobile development with 3+ years of ex
 **Storage**
 <br>SQLite · Hive · Shared Preferences · Secure Storage
 
+**Localization**
+<br>i18n · l10n
+
 **Monitoring & Crash Reporting**
 <br>Sentry · Firebase Crashlytics
 
@@ -48,6 +51,9 @@ Software Engineer specializing in Flutter mobile development with 3+ years of ex
 
 **Tools**
 <br>Git · GitHub · GitLab · Android Studio · VS Code · Figma · Flutter DevTools
+
+**Collaboration & Process**
+<br>Deep Linking (go_router, OAuth callbacks) · Async remote collaboration · Technical mentoring · Agile · Scrum
 
 ---
 
