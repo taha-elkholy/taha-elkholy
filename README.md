@@ -1,19 +1,42 @@
-<h1 align="center">Taha Elkholy</h1>
-<h3 align="center">Software Engineer · Flutter Developer · Clean Architecture · Open Source</h3>
-
+<!-- markdownlint-disable MD013 MD033 MD041 -->
 <p align="center">
-  <img width="140" alt="Taha Elkholy" src="profile.png" />
+  <img src="github-banner.png" alt="Taha Elkholy — Mobile Application Engineer | Flutter Developer" width="100%" />
 </p>
 
+<h1 align="center">Taha Elkholy</h1>
+<h2 align="center">Mobile Application Engineer · Flutter Developer · Clean Architecture · CI/CD · Open Source</h2>
+
 <p align="center">
-  <a href="https://taha-elkholy.github.io/portfolio-web"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=globe&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/taha-elkholy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tahaelkholy.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://taha-elkholy.github.io/portfolio-web"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=globe&logoColor=white" alt="Portfolio Badge"/></a>
+  <a href="https://linkedin.com/in/taha-elkholy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:tahaelkholy.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 </p>
 
 ---
 
-Software Engineer specializing in Flutter mobile development with 4+ years of experience across iOS and Android, with an Android-native background. Delivered 6 live apps with 12K+ downloads using Clean Architecture and automated CI/CD.
+Mobile Application Engineer specializing in Flutter, with 4+ years building and shipping production apps for iOS and Android — from architecture decisions to store release. Android-native background. Open source contributor to Flutter packages used by thousands of developers every month.
+
+---
+
+## 🤝 Open Source Contributions
+
+### [alarm](https://pub.dev/packages/alarm) — ~9.6K downloads/month
+
+Fixed an iOS notification persistence bug and contributed the `keepNotificationAfterAlarmEnds` option — now documented as part of the package's public `NotificationSettings` API.
+
+✅ Merged — [PR #394](https://github.com/gdelataillade/alarm/pull/394)
+
+### [fluttertoast](https://pub.dev/packages/fluttertoast) — 550K+ downloads/month · 4.1K+ likes
+
+Diagnosed and fixed an RTL text rendering regression affecting Arabic and Hebrew users.
+
+✅ Merged — [PR #515](https://github.com/ponnamkarthik/FlutterToast/pull/515)
+
+### [flutter_jailbreak_detection_plus](https://github.com/yazanalkamsheh/flutter_jailbreak_detection_plus)
+
+Contributed a feature enhancement to Flutter jailbreak detection capabilities.
+
+🔄 Open — [PR #7](https://github.com/yazanalkamsheh/flutter_jailbreak_detection_plus/pull/7)
 
 ---
 
@@ -55,11 +78,15 @@ Software Engineer specializing in Flutter mobile development with 4+ years of ex
 **Collaboration & Process**
 <br>Deep Linking (go_router, OAuth callbacks) · Async remote collaboration · Technical mentoring · Agile · Scrum
 
+**Spoken Languages**
+<br>Arabic (Native) · English (Professional Working)
+
 ---
 
 ## 📱 Production Apps
 
-### EV Cozmo — Electric Vehicle Companion — 2K+ ↓ · ★ 4.7
+### EV Cozmo — Electric Vehicle Companion
+
 - All-in-one EV platform live across Egypt, KSA, UAE, Jordan, Qatar, Kuwait & Morocco
 - Real-time charging station discovery and interactive route planning
 - AI-powered battery range calculation
@@ -72,7 +99,8 @@ Software Engineer specializing in Flutter mobile development with 4+ years of ex
 
 ---
 
-### HNE Futures — EV Charging Manager — 2.5K+ ↓ · ★ 5.0
+### HNE Futures — EV Charging Manager
+
 - EV charging session management with real-time hardware-software integration
 - Cross-functional collaboration with embedded systems and backend teams
 - Improved application stability through unit testing covering use cases, repositories, and core services
@@ -85,6 +113,7 @@ Software Engineer specializing in Flutter mobile development with 4+ years of ex
 ---
 
 ### Atareeqak عطريقك — Ride-Sharing App
+
 - Connects drivers and passengers heading to the same destination
 - Trip posting, seat booking with price and departure time display
 - Real-time GPS tracking and step-by-step trip status
@@ -99,7 +128,8 @@ Software Engineer specializing in Flutter mobile development with 4+ years of ex
 
 ---
 
-### Multaqa — Muslim Lifestyle App — 700+ ↓
+### Multaqa — Muslim Lifestyle App
+
 - Community-driven Muslim lifestyle platform for Muslims in the UK
 - Prayer times, halal directory, and local Islamic services
 - Social networking and community features
@@ -113,6 +143,7 @@ Software Engineer specializing in Flutter mobile development with 4+ years of ex
 ---
 
 ### Silah صلة — Complaints & Reports Platform
+
 - Smart platform for submitting complaints and reports easily and securely
 - Detailed report submission supported by photos and geographic location
 - Independent platform, not affiliated with any government entity
@@ -125,7 +156,10 @@ Software Engineer specializing in Flutter mobile development with 4+ years of ex
 
 ---
 
-### Al-Arbaeen Al-Nawawi الأربعين النووية — Hadith Study App — 5K+ ↓ · ★ 4.9
+### Al-Arbaeen Al-Nawawi الأربعين النووية — Hadith Study App
+
+**Personal project — my own product, published under my own developer account.** 5K+ downloads · ★ 4.9
+
 - Offline-first app for browsing and studying the 40 Hadith of Al-Nawawi
 - Originally built as a native Android app, later migrated to Flutter
 - Clean reading experience with no internet required
@@ -136,18 +170,8 @@ Software Engineer specializing in Flutter mobile development with 4+ years of ex
 
 ---
 
-## 🤝 Open Source Contributions
-
-| Package | Contribution | Status |
-|---|---|---|
-| [FlutterToast](https://github.com/ponnamkarthik/FlutterToast) | Fixed RTL display issue affecting Arabic & Hebrew app users | ✅ Merged — [PR #515](https://github.com/ponnamkarthik/FlutterToast/pull/515) |
-| [Alarm](https://github.com/gdelataillade/alarm) | Fixed iOS notification bug · Added `keepNotificationAfterAlarmEnds` feature | ✅ Merged — [PR #394](https://github.com/gdelataillade/alarm/pull/394) |
-| [flutter_jailbreak_detection_plus](https://github.com/yazanalkamsheh/flutter_jailbreak_detection_plus) | Reviewed and contributed to Flutter jailbreak detection feature | 🔄 Open — [PR #7](https://github.com/yazanalkamsheh/flutter_jailbreak_detection_plus/pull/7) |
-
----
-
 ## 📫 Contact
 
-- **Email:** tahaelkholy.dev@gmail.com
+- **Email:** <tahaelkholy.dev@gmail.com>
 - **LinkedIn:** [linkedin.com/in/taha-elkholy](https://linkedin.com/in/taha-elkholy)
-- **Location:** Alexandria, Egypt · Open to Remote
+- **Location:** Damanhur, Beheira, Egypt · Open to Remote & Relocation
