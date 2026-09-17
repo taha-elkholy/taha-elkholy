@@ -14,7 +14,7 @@
 
 ---
 
-Mobile Application Engineer specializing in Flutter, with 4+ years building and shipping production apps for iOS and Android — from architecture decisions to store release. Android-native background. Open source contributor to Flutter packages used by thousands of developers every month.
+Mobile Application Engineer specializing in Flutter, with 4+ years building and shipping production apps for iOS and Android — from architecture decisions to store release. Android-native background. Open source contributor to Flutter packages used by thousands of developers every month. I also publish Flutter work of my own in the open, including a repo that rebuilds a working app into Clean Architecture one problem at a time.
 
 ---
 
@@ -51,6 +51,7 @@ Each branch solves exactly one named problem and ships a write-up covering the f
 `Flutter` `Clean Architecture` `Cubit` `dio` `drift` `get_it` `injectable` `very_good_analysis`
 
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/taha-elkholy/flutter-clean-architecture-steps)
+
 ---
 
 ## 🧠 Skills
