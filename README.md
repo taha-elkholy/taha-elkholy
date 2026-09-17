@@ -40,6 +40,19 @@ Contributed a feature enhancement to Flutter jailbreak detection capabilities.
 
 ---
 
+## 🧱 Public Work
+
+### [flutter-clean-architecture-steps](https://github.com/taha-elkholy/flutter-clean-architecture-steps) — MIT
+
+An open-source Flutter repo that starts with a working recipes app written entirely in one `main.dart` — hardcoded colors, no error handling — and refactors it into Clean Architecture one branch at a time.
+
+Each branch solves exactly one named problem and ships a write-up covering the fix, the options rejected along the way, and what it deliberately left unsolved. No API key and no setup: clone and run.
+
+`Flutter` `Clean Architecture` `Cubit` `dio` `drift` `get_it` `injectable` `very_good_analysis`
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/taha-elkholy/flutter-clean-architecture-steps)
+---
+
 ## 🧠 Skills
 
 **Languages & Frameworks**
