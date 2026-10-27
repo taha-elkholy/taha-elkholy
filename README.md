@@ -32,12 +32,6 @@ Diagnosed and fixed an RTL text rendering regression affecting Arabic and Hebrew
 
 ✅ Merged — [PR #515](https://github.com/ponnamkarthik/FlutterToast/pull/515)
 
-### [flutter_jailbreak_detection_plus](https://github.com/yazanalkamsheh/flutter_jailbreak_detection_plus)
-
-Contributed a feature enhancement to Flutter jailbreak detection capabilities.
-
-🔄 Open — [PR #7](https://github.com/yazanalkamsheh/flutter_jailbreak_detection_plus/pull/7)
-
 ---
 
 ## 🧱 Public Work
