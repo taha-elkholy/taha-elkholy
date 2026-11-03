@@ -28,7 +28,7 @@ Fixed an iOS notification persistence bug and contributed the `keepNotificationA
 
 ### [fluttertoast](https://pub.dev/packages/fluttertoast) — 550K+ downloads/month · 4.1K+ likes
 
-Diagnosed and fixed an RTL text rendering regression affecting Arabic and Hebrew users.
+Diagnosed and fixed an RTL text rendering regression affecting Arabic.
 
 ✅ Merged — [PR #515](https://github.com/ponnamkarthik/FlutterToast/pull/515)
 
